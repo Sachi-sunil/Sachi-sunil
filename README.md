@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin S</h1>
-<h3 align="center">I'm a UI/UX designer who believes that great design should feel like a masterpiece—no art gallery or snooty curator required. My superpower? Transforming complex ideas into simple, stunning visuals, all while keeping my sanity intact (and maintaining a steady supply of snacks). 🍕🎉</h3>
+<h3 align="center">I'm a UI/UX designer who believes that great design should feel like a masterpiece—no art gallery or snooty curator required. My superpower? Transforming complex ideas into simple, stunning visuals 🎨✨, all while keeping my sanity intact (and maintaining a steady supply of snacks 🍕🎉).</h3>
 
-<h3>
-When I'm not busy crafting user experiences that bring smiles, you’ll find me channeling my inner artist, doodling everything from whimsical creatures to beloved cartoons. If a picture is worth a thousand words, then my sketches are basically novels!
+<h3 align="center">
+When I'm not busy crafting user experiences that bring smiles 😊, you’ll find me channeling my inner artist 🎨, doodling everything from whimsical creatures 🐉 to beloved cartoons 🦸‍♂️. If a picture is worth a thousand words, then my sketches are basically novels! 📚✏️
 
-Let’s connect and color the digital world with creativity and fun!</h3>
+Let’s connect and color the digital world with creativity and fun! 🌈🤝</h3>
+
 
 
 - 🌱 I’m currently learning **MacroAnimation in UI Design, Javascript, Low-Code-Development, GoogleCloudStorage**
