@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachin S</h1>
-<h3 align="center">I’m a UI/UX Designer excited about creating user-centered designs that are both functional and visually appealing. I believe in the power of empathy and research to craft exceptional user experiences.</h3>
+<h3 align="center">Am an UI/UX designer who believes that good design should feel like a masterpiece—only without the need for an art gallery or a snooty curator. My superpower? Transforming complex ideas into simple, stunning visuals, all while maintaining my sanity (and a steady supply of snacks). 🍕🎉
+
+When I'm not busy crafting user experiences that make people smile, you’ll find me channeling my inner artist, doodling everything from whimsical creatures to—let’s be honest—more cats that look like potatoes. 🥔 If a picture is worth a thousand words, then my sketches are basically novels!
+
+Let’s connect and paint the digital world with creativity and fun!</h3>
 
 - 🌱 I’m currently learning **MacroAnimation in UI Design, Javascript, Low-Code-Development, GoogleCloudStorage**
 
@@ -9,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sachin-s-744711291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sachin-s-744711291" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sachin-s-744711291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-s-744711291" height="30" width="40" /></a>
 <a href="https://instagram.com/sachin._.sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin._.sunil" height="30" width="40" /></a>
 </p>
 
