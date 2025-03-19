@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sachin S</h1>
 <h3 align="center"💻 UI/UX Designer 🎨 | 🔥 Frontend Developer 💡 | 📊 Aspiring Data Analyst 📈</h3>
 
-<h3 align="center">
-Great design should feel like magic—🎨 effortless, captivating, and open to everyone, no golden tickets required! ✨. 💡 My superpower? Transforming complex ideas into simple, stunning visuals ✨ while juggling JavaScript 💻, pixels 🖌️, and now... DATA! 📊 </h3>
+<h3 align="center">My superpower? Transforming complex ideas into simple, stunning visuals ✨ while juggling JavaScript 💻, pixels 🖌️, and now... DATA! 📊 .
+Great design should feel like magic 🎨 effortless, captivating, and open to everyone, no golden tickets required! ✨</h3>
 <h3 align="center">
 I’m on a mission to make numbers look cool, tell stories, and (hopefully) not confuse people. 📊🔍
 
 </h3>
 
 
- 🚀 What I’m Learning Right Now:
-🔹 Data Analysis (EXCEL, PowerBi, Python, Pandas, Jupyter, SQL) 📈
-🔹 MacroAnimation in UI Design 🎭
-🔹 Low-Code Development & Google Cloud Storage ☁️
-🔹 Making charts that don’t look like a 5-year-old’s art project 🎨😂
+- 🚀 **Learning:** Data Analysis (Excel, Power BI, Python, SQL) 📊, UI MacroAnimation 🎭, Low-Code Dev ☁️, and making better charts 🎨😂.
 
 - 💬 Ask me about **UI UX Design**
 
