@@ -2,9 +2,9 @@
 <h3 align="center"💻 UI/UX Designer 🎨 | 🔥 Frontend Developer 💡 | 📊 Aspiring Data Analyst 📈</h3>
 
 <h3 align="center">
-I believe great design should feel like a masterpiece—no art gallery or overpriced tickets required. My superpower? Transforming complex ideas into simple, stunning visuals while juggling JavaScript, pixels, and now... DATA! </h3>
+Great design should feel like magic—🎨 effortless, captivating, and open to everyone, no golden tickets required! ✨. 💡 My superpower? Transforming complex ideas into simple, stunning visuals ✨ while juggling JavaScript 💻, pixels 🖌️, and now... DATA! 📊 </h3>
 <h3 align="center">
-When I’m not crafting delightful user experiences, I’m on a mission to make numbers look cool, tell stories, and (hopefully) not confuse people. 📊🔍
+I’m on a mission to make numbers look cool, tell stories, and (hopefully) not confuse people. 📊🔍
 
 </h3>
 
